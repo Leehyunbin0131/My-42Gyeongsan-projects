@@ -8,6 +8,25 @@ This repository is an index for my 42 Gyeongsan projects and study archives.
 | --- | --- | --- |
 | C Piscine | C Piscine exercises from 42 Gyeongsan | [42Gyeongsan-C_Piscine](https://github.com/Leehyunbin0131/42Gyeongsan-C_Piscine) |
 | Libft | Custom C library for the 42 curriculum | [42Gyeongsan-Libft](https://github.com/Leehyunbin0131/42Gyeongsan-Libft) |
+| libftTester | Enhanced Libft tester fork for 42 Gyeongsan systems | [libftTester](https://github.com/Leehyunbin0131/libftTester) |
+
+## Testing Tools
+
+I also maintain a fork of `libftTester` for my Libft verification workflow:
+[Leehyunbin0131/libftTester](https://github.com/Leehyunbin0131/libftTester).
+
+This fork keeps the original Tripouille-style commands while adding broader
+edge-case coverage, Ubuntu 24.04 / WSL-safe leak tracking, and Makefile checks
+for common 42 Libft requirements.
+
+Useful commands:
+
+```sh
+make m
+make checkmakefile
+make calloc
+make dockerm
+```
 
 ## Repository Naming
 
