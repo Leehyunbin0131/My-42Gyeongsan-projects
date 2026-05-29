@@ -8,6 +8,7 @@ This repository is an index for my 42 Gyeongsan projects and study archives.
 | --- | --- | --- |
 | C Piscine | C Piscine exercises from 42 Gyeongsan | [42Gyeongsan-C_Piscine](https://github.com/Leehyunbin0131/42Gyeongsan-C_Piscine) |
 | Libft | Custom C library for the 42 curriculum | [42Gyeongsan-Libft](https://github.com/Leehyunbin0131/42Gyeongsan-Libft) |
+| get_next_line | Line-by-line file descriptor reader for the 42 curriculum | [42Gyeongsan-get_next_line](https://github.com/Leehyunbin0131/42Gyeongsan-get_next_line) |
 | libftTester | Enhanced Libft tester fork for 42 Gyeongsan systems | [libftTester](https://github.com/Leehyunbin0131/libftTester) |
 
 ## Testing Tools
