@@ -8,34 +8,34 @@
 
 | 과제 | 구현 내용 |
 | --- | --- |
-| [C Piscine](projects/c-piscine/) | 문자열 처리, 수학 연산, 배열·메모리 할당 함수 구현 |
-| [Rush 00](projects/rush00/) | 다섯 가지 테두리 모양으로 사각형 출력 |
-| [Rush 01](projects/rush01/) | 방향별로 보이는 높이 개수 조건을 만족하는 격자 퍼즐 풀이 |
-| [Rush 02](projects/rush02/) | 사전을 활용해 숫자를 단어로 변환 |
-| [BSQ](projects/bsq/) | 동적 계획법으로 장애물이 없는 가장 큰 정사각형 탐색 |
+| [C Piscine](projects/c-piscine/README.ko.md) | 문자열 처리, 수학 연산, 배열·메모리 할당 함수 구현 |
+| [Rush 00](projects/rush00/README.ko.md) | 다섯 가지 테두리 모양으로 사각형 출력 |
+| [Rush 01](projects/rush01/README.ko.md) | 방향별로 보이는 높이 개수 조건을 만족하는 격자 퍼즐 풀이 |
+| [Rush 02](projects/rush02/README.ko.md) | 사전을 활용해 숫자를 단어로 변환 |
+| [BSQ](projects/bsq/README.ko.md) | 동적 계획법으로 장애물이 없는 가장 큰 정사각형 탐색 |
 
 ## 마일스톤 0
 
 | 프로젝트 | 구현 내용 |
 | --- | --- |
-| [Libft](projects/libft/) | 문자열·메모리 처리 함수와 연결 리스트를 포함한 C 라이브러리 |
+| [Libft](projects/libft/README.ko.md) | 문자열·메모리 처리 함수와 연결 리스트를 포함한 C 라이브러리 |
 
 ## 마일스톤 1
 
 | 프로젝트 | 구현 내용 |
 | --- | --- |
-| [get_next_line](projects/get_next_line/) | 파일 디스크립터에서 한 줄씩 읽는 함수 |
-| [ft_printf](projects/ft_printf/) | printf의 형식 지정과 출력 기능 구현 |
+| [get_next_line](projects/get_next_line/README.ko.md) | 파일 디스크립터에서 한 줄씩 읽는 함수 |
+| [ft_printf](projects/ft_printf/README.ko.md) | printf의 형식 지정과 출력 기능 구현 |
 | [push_swap](projects/push_swap/) | 두 스택을 이용한 정렬과 연산 횟수 벤치마크 |
 
 ## 마일스톤 2
 
 | 프로젝트 | 구현 내용 |
 | --- | --- |
-| [A-Maze-ing](projects/a-maze-ing/) | 미로 생성, 최단 경로 탐색, MiniLibX 시각화 |
-| [Python 00](projects/python00/) | 정원 정보 입출력, 면적·수확량 계산, 씨앗 재고 출력 |
-| [Python 01](projects/python01/) | 식물 클래스, 성장 처리, 데이터 검증, 정원 통계 |
-| [Python 02](projects/python02/) | 오류 발생·처리, 사용자 정의 예외, finally 정리 예제 |
+| [A-Maze-ing](projects/a-maze-ing/README.ko.md) | 미로 생성, 최단 경로 탐색, MiniLibX 시각화 |
+| [Python 00](projects/python00/README.ko.md) | 정원 정보 입출력, 면적·수확량 계산, 씨앗 재고 출력 |
+| [Python 01](projects/python01/README.ko.md) | 식물 클래스, 성장 처리, 데이터 검증, 정원 통계 |
+| [Python 02](projects/python02/README.ko.md) | 오류 발생·처리, 사용자 정의 예외, finally 정리 예제 |
 
 ## 테스트와 검증
 
@@ -48,9 +48,11 @@ Ubuntu 24.04 및 WSL 환경을 고려한 메모리 누수 추적과
 
 ## 라이선스
 
+저장소의 [MIT 라이선스](LICENSE) · [한국어 번역](LICENSE.ko.md)
+
 A-Maze-ing은 **jungblee와 hyunlee**가 공동 제작했으며,
-[Blue Oak 라이선스](projects/a-maze-ing/LICENSE.md)를 따릅니다.
-포함된 MiniLibX에는 [별도 MIT 라이선스](projects/a-maze-ing/third_party/mlx/LICENSE.md)가 적용됩니다.
+[Blue Oak 라이선스](projects/a-maze-ing/LICENSE.md)([한국어 번역](projects/a-maze-ing/LICENSE.ko.md))를 따릅니다.
+포함된 MiniLibX에는 [별도 MIT 라이선스](projects/a-maze-ing/third_party/mlx/LICENSE.md)([한국어 번역](projects/a-maze-ing/third_party/mlx/LICENSE.ko.md))가 적용됩니다.
 
 ## 기여자
 

@@ -1,5 +1,7 @@
 # mazegen
 
+English | [한국어](README.ko.md)
+
 A maze generator for Python 3.10 or later, using only the standard library.
 It does not read configuration files, write files, or depend on MLX.
 Calling `MazeGenerator(...)` generates the maze and finds a shortest path.

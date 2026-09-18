@@ -1,5 +1,7 @@
 # C Piscine Rush 00
 
+English | [한국어](README.ko.md)
+
 Rectangle-printing exercises in C. The archive includes five border styles,
 `rush00.c` through `rush04.c`, and a shared character-output function.
 

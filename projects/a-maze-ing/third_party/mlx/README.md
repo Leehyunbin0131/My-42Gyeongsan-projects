@@ -1,5 +1,7 @@
 # MiniLibX 2.2
 
+English | [한국어](README.ko.md)
+
 This is the unmodified Ubuntu x86-64 wheel from `mlx-2.2.tgz`, supplied with
 the assignment. Despite the `py3-none-any` filename, its `libmlx.so` is a
 Linux x86-64 binary.

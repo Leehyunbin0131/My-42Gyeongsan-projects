@@ -2,6 +2,8 @@
 
 # Libft
 
+English | [한국어](README.ko.md)
+
 ## Result
 
 <p align="center">

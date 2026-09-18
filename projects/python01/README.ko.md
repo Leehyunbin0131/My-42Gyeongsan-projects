@@ -1,12 +1,12 @@
-# Python 01 — Object-Oriented Programming
+[English](README.md) | 한국어
 
-English | [한국어](README.ko.md)
+# Python 01 — 객체지향 프로그래밍
 
-Plant classes, object creation, growth, validation, inheritance, and garden analytics.
+식물 클래스, 객체 생성, 성장 처리, 유효성 검사, 상속, 정원 데이터 분석을 다룹니다.
 
-## Exercises
+## 연습 과제
 
-| Exercise | Source |
+| 과제 | 소스 코드 |
 | --- | --- |
 | `ex0` | [ft_garden_intro.py](ex0/ft_garden_intro.py) |
 | `ex1` | [ft_garden_data.py](ex1/ft_garden_data.py) |
@@ -16,12 +16,12 @@ Plant classes, object creation, growth, validation, inheritance, and garden anal
 | `ex5` | [ft_plant_types.py](ex5/ft_plant_types.py) |
 | `ex6` | [ft_garden_analytics.py](ex6/ft_garden_analytics.py) |
 
-## Run
+## 실행
 
-Use Python 3 from this directory:
+이 과제 폴더에서 Python 3으로 실행합니다:
 
 ```sh
 python3 ex0/ft_garden_intro.py
 ```
 
-Each exercise includes an executable demonstration.
+각 과제에는 실행 가능한 예제가 포함되어 있습니다.

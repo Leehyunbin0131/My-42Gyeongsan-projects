@@ -1,5 +1,7 @@
 # 42Gyeongsan C Piscine
 
+English | [한국어](README.ko.md)
+
 This repository contains my C Piscine exercises from 42 Gyeongsan.
 
 The Piscine is an intensive introduction to C programming, Unix basics, and

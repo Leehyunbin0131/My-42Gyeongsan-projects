@@ -2,6 +2,8 @@
 
 # A-Maze-ing
 
+English | [한국어](README.ko.md)
+
 ## Description
 
 A Python program that reads a configuration file, generates a maze, saves its

@@ -1,5 +1,7 @@
 # C Piscine Rush 01
 
+English | [한국어](README.ko.md)
+
 A C solver for a grid puzzle with row and column uniqueness constraints and
 edge clues describing how many buildings are visible. The solver searches
 candidate heights recursively and checks the visibility constraints.

@@ -1,5 +1,7 @@
 # C Piscine Rush 02
 
+English | [한국어](README.ko.md)
+
 A C program that converts a non-negative integer into words using a number
 dictionary. Includes dictionary parsing, validation, and number grouping.
 

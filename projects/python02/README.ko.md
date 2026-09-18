@@ -1,12 +1,12 @@
-# Python 02 — Exceptions
+[English](README.md) | 한국어
 
-English | [한국어](README.ko.md)
+# Python 02 — 예외 처리
 
-Catching and raising exceptions, handling different error types, custom exceptions, and cleanup with finally.
+예외 발생과 처리, 여러 오류 유형 처리, 사용자 정의 예외, finally를 통한 정리를 다룹니다.
 
-## Exercises
+## 연습 과제
 
-| Exercise | Source |
+| 과제 | 소스 코드 |
 | --- | --- |
 | `ex0` | [ft_first_exception.py](ex0/ft_first_exception.py) |
 | `ex1` | [ft_raise_exception.py](ex1/ft_raise_exception.py) |
@@ -14,12 +14,12 @@ Catching and raising exceptions, handling different error types, custom exceptio
 | `ex3` | [ft_custom_errors.py](ex3/ft_custom_errors.py) |
 | `ex4` | [ft_finally_block.py](ex4/ft_finally_block.py) |
 
-## Run
+## 실행
 
-Use Python 3 from this directory:
+이 과제 폴더에서 Python 3으로 실행합니다:
 
 ```sh
 python3 ex4/ft_finally_block.py
 ```
 
-This archive contains the submitted ex0–ex4 files.
+제출한 ex0–ex4 파일을 포함합니다.

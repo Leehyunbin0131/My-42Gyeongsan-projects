@@ -1,5 +1,7 @@
 # BSQ
 
+English | [한국어](README.ko.md)
+
 C Piscine project that finds and fills the largest obstacle-free square in a
 map using dynamic programming. Supports map files and standard input.
 
