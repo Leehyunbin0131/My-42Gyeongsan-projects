@@ -1,0 +1,29 @@
+# Local tools
+ft_ps_visu/
+checker_linux
+*.png
+
+# Build artifacts
+*.o
+*.a
+*.so
+push_swap
+
+# Debug and profiling output
+*.dSYM/
+*.gcda
+*.gcno
+*.gcov
+vgcore.*
+
+# Test and temporary files
+*.log
+*.tmp
+tmp/
+
+# Editor and OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store

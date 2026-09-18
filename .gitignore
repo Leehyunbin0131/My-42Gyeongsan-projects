@@ -3,3 +3,9 @@ __pycache__/
 .venv/
 .mypy_cache/
 .ruff_cache/
+
+# C build outputs
+*.o
+*.a
+a.out
+/projects/push_swap/push_swap

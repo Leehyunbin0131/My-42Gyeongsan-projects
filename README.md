@@ -3,18 +3,18 @@
 My 42 Gyeongsan projects and study archives, including C programming,
 Python exercises, algorithms, and maze generation.
 
-Existing projects link to their dedicated repositories. New archives are
-available directly under [`projects/`](projects/).
+All project source archives are available directly under [`projects/`](projects/).
+Open a project directory for its source code, README, and available build files.
 
 ## Projects
 
-| Project | Description | Repository |
+| Project | Description | Source |
 | --- | --- | --- |
-| C Piscine | C Piscine exercises from 42 Gyeongsan | [42Gyeongsan-C_Piscine](https://github.com/Leehyunbin0131/42Gyeongsan-C_Piscine) |
-| Libft | Custom C library for the 42 curriculum | [42Gyeongsan-Libft](https://github.com/Leehyunbin0131/42Gyeongsan-Libft) |
-| get_next_line | Line-by-line file descriptor reader for the 42 curriculum | [42Gyeongsan-get_next_line](https://github.com/Leehyunbin0131/42Gyeongsan-get_next_line) |
-| ft_printf | Custom printf implementation for the 42 curriculum | [42Gyeongsan-ft_printf](https://github.com/Leehyunbin0131/42Gyeongsan-ft_printf) |
-| push_swap | Two-stack sorting with adaptive strategies and operation benchmarking | [42Gyeongsan-push_swap](https://github.com/Leehyunbin0131/42Gyeongsan-push_swap) |
+| C Piscine | C Piscine exercises from 42 Gyeongsan | [Source & README](projects/c-piscine/) |
+| Libft | Custom C library for the 42 curriculum | [Source & README](projects/libft/) |
+| get_next_line | Line-by-line file descriptor reader for the 42 curriculum | [Source & README](projects/get_next_line/) |
+| ft_printf | Custom printf implementation for the 42 curriculum | [Source & README](projects/ft_printf/) |
+| push_swap | Two-stack sorting with adaptive strategies and operation benchmarking | [Source & README](projects/push_swap/) |
 | A-Maze-ing | Configurable maze generation, shortest-path solving, and MiniLibX visualization | [Source & README](projects/a-maze-ing/) |
 
 ## Python Modules
@@ -45,9 +45,13 @@ make dockerm
 
 ## Archive Notes
 
-The Python modules and A-Maze-ing are snapshots of the supplied Vogsphere
-repositories. Original source files are preserved; Python module READMEs
-provide an exercise inventory and runnable examples.
+Projects are snapshots of the original GitHub and Vogsphere repositories.
+Original source files, project documentation, and assets are preserved; Python
+module READMEs provide an exercise inventory and runnable examples. Compiled
+C Piscine executables are omitted, with exclusions recorded in `sources.json`.
+
+Earlier GitHub repositories remain available as historical archives. This
+repository now provides direct access to all listed project sources.
 
 [`sources.json`](sources.json) records each archive's source repository, exact
 commit, and original file list. Vogsphere access requires an authorized SSH key.
