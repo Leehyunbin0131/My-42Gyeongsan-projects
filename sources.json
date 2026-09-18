@@ -281,5 +281,86 @@
       "stack_init.c",
       "stack_utils.c"
     ]
+  },
+  {
+    "project": "bsq",
+    "directory": "projects/bsq",
+    "source": "git@vogsphere.42gyeongsan.kr:vogsphere/intra-uuid-70e40236-fa28-4178-8d8e-5e8cf5fdb76d-7217889-hyunlee",
+    "commit": "99a43bf9a4e706d3cb41dedd779b9265092460fe",
+    "files": [
+      ".gitignore",
+      "Makefile",
+      "include/bsq.h",
+      "include/header_parse.h",
+      "include/map_reader.h",
+      "include/utils.h",
+      "src/bsq.c",
+      "src/dp.c",
+      "src/header_parse.c",
+      "src/main.c",
+      "src/map_reader.c",
+      "src/utils.c"
+    ]
+  },
+  {
+    "project": "rush00",
+    "directory": "projects/rush00",
+    "source": "git@vogsphere.42gyeongsan.kr:vogsphere/intra-uuid-65be12a2-17b8-40ab-a447-adb94cf1517e-7186853-ykwon",
+    "commit": "d8eb4f0d222ff4e082d2da56cdd1761c84adacac",
+    "files": [
+      ".vscode/tasks.json",
+      "ex00/ft_putchar.c",
+      "ex00/main.c",
+      "ex00/rush00.c",
+      "ex00/rush01.c",
+      "ex00/rush02.c",
+      "ex00/rush03.c",
+      "ex00/rush04.c"
+    ]
+  },
+  {
+    "project": "rush02",
+    "directory": "projects/rush02",
+    "source": "git@vogsphere.42gyeongsan.kr:vogsphere/intra-uuid-fafc0736-cc53-486c-aa40-f5f1f8775a12-7228044-hyunlee",
+    "commit": "7df251e5c6192de62a17b2460c209dba712f1d84",
+    "files": [
+      "ex00/Makefile",
+      "ex00/check.c",
+      "ex00/duplicate.c",
+      "ex00/ft_utils.c",
+      "ex00/get_dict.c",
+      "ex00/get_dict2.c",
+      "ex00/main.c",
+      "ex00/number.c",
+      "ex00/numbers.dict",
+      "ex00/parsing.c",
+      "ex00/print.c",
+      "ex00/rush.h",
+      "ex00/unit_key.c",
+      "ex00/validate.c",
+      "ex00/validate_unit.c"
+    ]
+  },
+  {
+    "project": "rush01",
+    "directory": "projects/rush01",
+    "source": "git@vogsphere.42gyeongsan.kr:vogsphere/intra-uuid-a0b6aeca-c8e0-49a0-8078-c5afd3b01a87-7203782-chwang",
+    "commit": "80206081336f65f4e49b88603970cdcb46d11e3f",
+    "files": [
+      "ex00/char_to_int.c",
+      "ex00/count_visible.c",
+      "ex00/is_number.c",
+      "ex00/main.c",
+      "ex00/make_array.c",
+      "ex00/make_map.c",
+      "ex00/make_sequence.c",
+      "ex00/print.c",
+      "ex00/print_error.c",
+      "ex00/solution.c",
+      "ex00/sort.c",
+      "ex00/validate_input.c",
+      "solution_mk2.c",
+      "solution_mk3.c"
+    ]
   }
 ]

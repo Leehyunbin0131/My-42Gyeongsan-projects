@@ -11,6 +11,10 @@ Open a project directory for its source code, README, and available build files.
 | Project | Description | Source |
 | --- | --- | --- |
 | C Piscine | C Piscine exercises from 42 Gyeongsan | [Source & README](projects/c-piscine/) |
+| Rush 00 | Rectangle printing with five border styles | [Source & README](projects/rush00/) |
+| Rush 01 | Grid puzzle solver with visibility constraints | [Source & README](projects/rush01/) |
+| Rush 02 | Dictionary-based number-to-words conversion | [Source & README](projects/rush02/) |
+| BSQ | Largest obstacle-free square search using dynamic programming | [Source & README](projects/bsq/) |
 | Libft | Custom C library for the 42 curriculum | [Source & README](projects/libft/) |
 | get_next_line | Line-by-line file descriptor reader for the 42 curriculum | [Source & README](projects/get_next_line/) |
 | ft_printf | Custom printf implementation for the 42 curriculum | [Source & README](projects/ft_printf/) |
@@ -47,7 +51,8 @@ make dockerm
 
 Projects are snapshots of the original GitHub and Vogsphere repositories.
 Original source files, project documentation, and assets are preserved; Python
-module READMEs provide an exercise inventory and runnable examples. Compiled
+module READMEs provide an exercise inventory and runnable examples. BSQ and
+Rush READMEs document their build and run commands. Compiled
 C Piscine executables are omitted, with exclusions recorded in `sources.json`.
 
 Earlier GitHub repositories remain available as historical archives. This
