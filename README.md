@@ -16,12 +16,12 @@
 | --- | --- |
 | [get_next_line](projects/get_next_line/) | 파일 디스크립터에서 한 줄씩 읽는 함수 |
 | [ft_printf](projects/ft_printf/) | printf의 형식 지정과 출력 기능 구현 |
+| [push_swap](projects/push_swap/) | 두 스택을 이용한 정렬과 연산 횟수 벤치마크 |
 
 ## 마일스톤 2
 
 | 프로젝트 | 구현 내용 |
 | --- | --- |
-| [push_swap](projects/push_swap/) | 두 스택을 이용한 정렬과 연산 횟수 벤치마크 |
 | [A-Maze-ing](projects/a-maze-ing/) | 미로 생성, 최단 경로 탐색, MiniLibX 시각화 |
 
 ### Python 과제
