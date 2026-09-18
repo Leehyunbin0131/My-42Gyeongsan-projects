@@ -1,69 +1,53 @@
-# My 42 Gyeongsan Projects
+# 42 경산 프로젝트
 
-My 42 Gyeongsan projects and study archives, including C programming,
-Python exercises, algorithms, and maze generation.
+42 경산에서 구현한 과제 결과물을 모았습니다.
 
-All project source archives are available directly under [`projects/`](projects/).
-Open a project directory for its source code, README, and available build files.
+각 프로젝트 링크에서 소스 코드와 구현 설명을 확인할 수 있습니다.
 
-## Projects
+## 주요 프로젝트
 
-| Project | Description | Source |
+| 프로젝트  |  구현 내용 |
+| ---  |  --- |
+| [Libft](projects/libft/)  |  문자열·메모리 처리 함수와 연결 리스트를 포함한 C 라이브러리 |
+| [get_next_line](projects/get_next_line/)  |  파일 디스크립터에서 한 줄씩 읽는 함수 |
+| [ft_printf](projects/ft_printf/)  |  printf의 형식 지정과 출력 기능 구현 |
+| [push_swap](projects/push_swap/)  |  두 스택을 이용한 정렬과 연산 횟수 벤치마크 |
+| [A-Maze-ing](projects/a-maze-ing/)  |  미로 생성, 최단 경로 탐색, MiniLibX 시각화 |
+
+## C Piscine 및 C 과제
+
+| 과제 | 구현 내용 |
+| --- | --- |
+| [C Piscine](projects/c-piscine/) | 문자열 처리, 수학 연산, 배열·메모리 할당 함수 구현 |
+| [Rush 00](projects/rush00/) | 다섯 가지 테두리 모양으로 사각형 출력 |
+| [Rush 01](projects/rush01/) | 방향별로 보이는 높이 개수 조건을 만족하는 격자 퍼즐 풀이 |
+| [Rush 02](projects/rush02/) | 사전을 활용해 숫자를 단어로 변환 |
+| [BSQ](projects/bsq/) | 동적 계획법으로 장애물이 없는 가장 큰 정사각형 탐색 |
+
+## Python 과제
+
+| 모듈 | 구현 내용 | 소스 코드 |
 | --- | --- | --- |
-| C Piscine | C Piscine exercises from 42 Gyeongsan | [Source & README](projects/c-piscine/) |
-| Rush 00 | Rectangle printing with five border styles | [Source & README](projects/rush00/) |
-| Rush 01 | Grid puzzle solver with visibility constraints | [Source & README](projects/rush01/) |
-| Rush 02 | Dictionary-based number-to-words conversion | [Source & README](projects/rush02/) |
-| BSQ | Largest obstacle-free square search using dynamic programming | [Source & README](projects/bsq/) |
-| Libft | Custom C library for the 42 curriculum | [Source & README](projects/libft/) |
-| get_next_line | Line-by-line file descriptor reader for the 42 curriculum | [Source & README](projects/get_next_line/) |
-| ft_printf | Custom printf implementation for the 42 curriculum | [Source & README](projects/ft_printf/) |
-| push_swap | Two-stack sorting with adaptive strategies and operation benchmarking | [Source & README](projects/push_swap/) |
-| A-Maze-ing | Configurable maze generation, shortest-path solving, and MiniLibX visualization | [Source & README](projects/a-maze-ing/) |
+| Python 00 | 정원 정보 입출력, 면적·수확량 계산, 씨앗 재고 출력 | [ex0–ex7](projects/python00/) |
+| Python 01 | 식물 클래스, 성장 처리, 데이터 검증, 정원 통계 | [ex0–ex6](projects/python01/) |
+| Python 02 | 오류 발생·처리, 사용자 정의 예외, finally 정리 예제 | [ex0–ex4](projects/python02/) |
 
-## Python Modules
+## 테스트와 검증
 
-| Module | Topics | Archive |
-| --- | --- | --- |
-| Python 00 | Functions, input/output, loops, and recursion | [ex0–ex7](projects/python00/) |
-| Python 01 | Classes, validation, inheritance, and garden analytics | [ex0–ex6](projects/python01/) |
-| Python 02 | Exceptions, custom errors, and cleanup with finally | [ex0–ex4](projects/python02/) |
+Libft 검증을 위해 포크한
+[Leehyunbin0131/libftTester](https://github.com/Leehyunbin0131/libftTester)를 별도로 관리합니다.
 
-## Testing Tools
+기존 Tripouille 방식의 명령어를 유지하면서 경계 조건 테스트를 확장하고,
+Ubuntu 24.04 및 WSL 환경을 고려한 메모리 누수 추적과
+42 Libft의 일반적인 요구사항에 맞춘 Makefile 검사를 추가했습니다.
 
-I also maintain a fork of `libftTester` for my Libft verification workflow:
-[Leehyunbin0131/libftTester](https://github.com/Leehyunbin0131/libftTester).
+## 라이선스
 
-This fork keeps the original Tripouille-style commands while adding broader
-edge-case coverage, Ubuntu 24.04 / WSL-safe leak tracking, and Makefile checks
-for common 42 Libft requirements.
+A-Maze-ing은 **jungblee와 hyunlee**가 공동 제작했으며,
+[Blue Oak 라이선스](projects/a-maze-ing/LICENSE.md)를 따릅니다.
+포함된 MiniLibX에는 [별도 MIT 라이선스](projects/a-maze-ing/third_party/mlx/LICENSE.md)가 적용됩니다.
 
-Useful commands:
+## 기여자
 
-```sh
-make m
-make checkmakefile
-make calloc
-make dockerm
-```
-
-## Archive Notes
-
-Projects are snapshots of the original GitHub and Vogsphere repositories.
-Original source files, project documentation, and assets are preserved; Python
-module READMEs provide an exercise inventory and runnable examples. BSQ and
-Rush READMEs document their build and run commands. Compiled
-C Piscine executables are omitted, with exclusions recorded in `sources.json`.
-
-Earlier GitHub repositories remain available as historical archives. This
-repository now provides direct access to all listed project sources.
-
-[`sources.json`](sources.json) records each archive's source repository, exact
-commit, and original file list. Vogsphere access requires an authorized SSH key.
-The listed exercises describe the files present, not an evaluation score or
-completion certification.
-
-A-Maze-ing was created by **jungblee and hyunlee**. Its
-[Blue Oak license](projects/a-maze-ing/LICENSE.md) and the bundled
-[MiniLibX license](projects/a-maze-ing/third_party/mlx/LICENSE.md) are preserved
-and apply to their respective files.
+- [Leehyunbin0131](https://github.com/Leehyunbin0131) — 프로젝트 작성 및 유지보수.
+- OpenAI Codex — 저장소 통합 후 정리와 문서 작성·한국어 번역을 지원한 AI 도구.

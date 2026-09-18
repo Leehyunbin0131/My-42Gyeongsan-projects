@@ -159,7 +159,8 @@
         "C_Piscine_C_03/ex04/ft_strstr",
         "C_Piscine_C_03/ex05/ft_strlcat"
       ]
-    }
+    },
+    "source_status": "deleted"
   },
   {
     "project": "libft",
@@ -216,7 +217,8 @@
       "ft_tolower.c",
       "ft_toupper.c",
       "libft.h"
-    ]
+    ],
+    "source_status": "deleted"
   },
   {
     "project": "get_next_line",
@@ -230,7 +232,8 @@
       "get_next_line.c",
       "get_next_line.h",
       "get_next_line_utils.c"
-    ]
+    ],
+    "source_status": "deleted"
   },
   {
     "project": "ft_printf",
@@ -248,7 +251,8 @@
       "ft_printf.h",
       "ft_printf_utils.c",
       "put_base.c"
-    ]
+    ],
+    "source_status": "deleted"
   },
   {
     "project": "push_swap",
@@ -280,7 +284,8 @@
       "stack_alloc.c",
       "stack_init.c",
       "stack_utils.c"
-    ]
+    ],
+    "source_status": "deleted"
   },
   {
     "project": "bsq",
