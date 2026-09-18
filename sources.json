@@ -1,0 +1,81 @@
+[
+  {
+    "project": "python00",
+    "directory": "projects/python00",
+    "source": "git@vogsphere.42gyeongsan.kr:vogsphere/intra-uuid-c0afba19-a3ae-4d78-b501-c645af6b24b5-7500389-hyunlee",
+    "commit": "cb200e1be540dc2890504e285c2121d604497986",
+    "files": [
+      "ex0/ft_hello_garden.py",
+      "ex1/ft_garden_name.py",
+      "ex2/ft_plot_area.py",
+      "ex3/ft_harvest_total.py",
+      "ex4/ft_plant_age.py",
+      "ex5/ft_water_reminder.py",
+      "ex6/ft_count_harvest_iterative.py",
+      "ex6/ft_count_harvest_recursive.py",
+      "ex7/ft_seed_inventory.py"
+    ]
+  },
+  {
+    "project": "python01",
+    "directory": "projects/python01",
+    "source": "git@vogsphere.42gyeongsan.kr:vogsphere/intra-uuid-78d50580-e53f-40c2-a4f4-fd214233b2cf-7615437-hyunlee",
+    "commit": "4e58ff0383a12ce2674cc27dd0bd61b1e8754ad3",
+    "files": [
+      "ex0/ft_garden_intro.py",
+      "ex1/ft_garden_data.py",
+      "ex2/ft_plant_growth.py",
+      "ex3/ft_plant_factory.py",
+      "ex4/ft_garden_security.py",
+      "ex5/ft_plant_types.py",
+      "ex6/ft_garden_analytics.py"
+    ]
+  },
+  {
+    "project": "python02",
+    "directory": "projects/python02",
+    "source": "git@vogsphere.42gyeongsan.kr:vogsphere/intra-uuid-a68d29eb-3807-4b42-af39-421bb5ba0589-7615436-hyunlee",
+    "commit": "c18d921719ee5b3132ed1bd944db34755915e19d",
+    "files": [
+      "ex0/ft_first_exception.py",
+      "ex1/ft_raise_exception.py",
+      "ex2/ft_different_errors.py",
+      "ex3/ft_custom_errors.py",
+      "ex4/ft_finally_block.py"
+    ]
+  },
+  {
+    "project": "a-maze-ing",
+    "directory": "projects/a-maze-ing",
+    "source": "git@vogsphere.42gyeongsan.kr:vogsphere/intra-uuid-52152e62-ab37-4356-9f4f-1d21ba82e10e-7632744-jungblee",
+    "commit": "0abb849eb6be9812432a7e6e69762f060d765c27",
+    "files": [
+      ".flake8",
+      ".gitignore",
+      "LICENSE.md",
+      "Makefile",
+      "README.md",
+      "a_maze_ing.py",
+      "assets/entry.png",
+      "assets/exit.png",
+      "assets/open-n.png",
+      "assets/open-w.png",
+      "assets/path.png",
+      "assets/pattern.png",
+      "assets/wall-0.png",
+      "assets/wall-1.png",
+      "config.txt",
+      "mazegen-1.0.0-py3-none-any.whl",
+      "mazegen/README.md",
+      "mazegen/__init__.py",
+      "mazegen/generator.py",
+      "pyproject.toml",
+      "third_party/mlx/LICENSE.md",
+      "third_party/mlx/README.md",
+      "third_party/mlx/ubuntu/mlx-2.2-py3-none-any.whl",
+      "typings/mlx/__init__.pyi",
+      "typings/mlx/mlx.pyi",
+      "uv.lock"
+    ]
+  }
+]
