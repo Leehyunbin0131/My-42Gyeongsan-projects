@@ -4,6 +4,16 @@
 
 각 프로젝트 링크에서 소스 코드와 구현 설명을 확인할 수 있습니다.
 
+## C Piscine
+
+| 과제 | 구현 내용 |
+| --- | --- |
+| [C Piscine](projects/c-piscine/) | 문자열 처리, 수학 연산, 배열·메모리 할당 함수 구현 |
+| [Rush 00](projects/rush00/) | 다섯 가지 테두리 모양으로 사각형 출력 |
+| [Rush 01](projects/rush01/) | 방향별로 보이는 높이 개수 조건을 만족하는 격자 퍼즐 풀이 |
+| [Rush 02](projects/rush02/) | 사전을 활용해 숫자를 단어로 변환 |
+| [BSQ](projects/bsq/) | 동적 계획법으로 장애물이 없는 가장 큰 정사각형 탐색 |
+
 ## 마일스톤 0
 
 | 프로젝트 | 구현 내용 |
@@ -26,16 +36,6 @@
 | [Python 00](projects/python00/) | 정원 정보 입출력, 면적·수확량 계산, 씨앗 재고 출력 |
 | [Python 01](projects/python01/) | 식물 클래스, 성장 처리, 데이터 검증, 정원 통계 |
 | [Python 02](projects/python02/) | 오류 발생·처리, 사용자 정의 예외, finally 정리 예제 |
-
-## C Piscine
-
-| 과제 | 구현 내용 |
-| --- | --- |
-| [C Piscine](projects/c-piscine/) | 문자열 처리, 수학 연산, 배열·메모리 할당 함수 구현 |
-| [Rush 00](projects/rush00/) | 다섯 가지 테두리 모양으로 사각형 출력 |
-| [Rush 01](projects/rush01/) | 방향별로 보이는 높이 개수 조건을 만족하는 격자 퍼즐 풀이 |
-| [Rush 02](projects/rush02/) | 사전을 활용해 숫자를 단어로 변환 |
-| [BSQ](projects/bsq/) | 동적 계획법으로 장애물이 없는 가장 큰 정사각형 탐색 |
 
 ## 테스트와 검증
 
