@@ -23,14 +23,9 @@
 | 프로젝트 | 구현 내용 |
 | --- | --- |
 | [A-Maze-ing](projects/a-maze-ing/) | 미로 생성, 최단 경로 탐색, MiniLibX 시각화 |
-
-### Python 과제
-
-| 모듈 | 구현 내용 | 소스 코드 |
-| --- | --- | --- |
-| Python 00 | 정원 정보 입출력, 면적·수확량 계산, 씨앗 재고 출력 | [ex0–ex7](projects/python00/) |
-| Python 01 | 식물 클래스, 성장 처리, 데이터 검증, 정원 통계 | [ex0–ex6](projects/python01/) |
-| Python 02 | 오류 발생·처리, 사용자 정의 예외, finally 정리 예제 | [ex0–ex4](projects/python02/) |
+| [Python 00](projects/python00/) | 정원 정보 입출력, 면적·수확량 계산, 씨앗 재고 출력 |
+| [Python 01](projects/python01/) | 식물 클래스, 성장 처리, 데이터 검증, 정원 통계 |
+| [Python 02](projects/python02/) | 오류 발생·처리, 사용자 정의 예외, finally 정리 예제 |
 
 ## C Piscine
 
