@@ -45,6 +45,76 @@
     ]
   },
   {
+    "project": "python03",
+    "directory": "projects/python03",
+    "source": "git@vogsphere.42gyeongsan.kr:vogsphere/intra-uuid-bf2d873e-8249-4f0f-9df3-31f2ceb9a811-7689150-hyunlee",
+    "commit": "376d123308f29bd5c33029c4ece79b9a9e43a741",
+    "files": [
+      "ex0/ft_command_quest.py",
+      "ex1/ft_score_analytics.py",
+      "ex2/ft_coordinate_system.py",
+      "ex3/ft_achievement_tracker.py",
+      "ex4/ft_inventory_system.py",
+      "ex5/ft_data_stream.py",
+      "ex6/ft_data_alchemist.py"
+    ]
+  },
+  {
+    "project": "python04",
+    "directory": "projects/python04",
+    "source": "git@vogsphere.42gyeongsan.kr:vogsphere/intra-uuid-6392ddef-ff5a-4d1d-a24e-bc371e0cca1e-7714888-hyunlee",
+    "commit": "adcff4c00464747df0d82197121390cf50a86681",
+    "files": [
+      "ex0/ft_ancient_text.py",
+      "ex1/ft_archive_creation.py",
+      "ex2/ft_stream_management.py",
+      "ex3/ft_vault_security.py"
+    ]
+  },
+  {
+    "project": "python05",
+    "directory": "projects/python05",
+    "source": "git@vogsphere.42gyeongsan.kr:vogsphere/intra-uuid-c72e0884-bcd0-442c-9dd6-2d94a093595a-7716042-hyunlee",
+    "commit": "4c26e286a80f1d0f682ae9968f2a4b3baf97745f",
+    "files": [
+      "ex0/data_processor.py",
+      "ex1/data_stream.py",
+      "ex2/data_pipeline.py"
+    ]
+  },
+  {
+    "project": "python06",
+    "directory": "projects/python06",
+    "source": "git@vogsphere.42gyeongsan.kr:vogsphere/intra-uuid-da1febb7-f4b8-445b-b6dc-ece8ee1e0cf8-7716043-hyunlee",
+    "commit": "926f83599eeaffb6b144712fc559695e4d948229",
+    "files": [
+      "alchemy/__init__.py",
+      "alchemy/elements.py",
+      "alchemy/grimoire/__init__.py",
+      "alchemy/grimoire/dark_spellbook.py",
+      "alchemy/grimoire/dark_validator.py",
+      "alchemy/grimoire/light_spellbook.py",
+      "alchemy/grimoire/light_validator.py",
+      "alchemy/potions.py",
+      "alchemy/transmutation/__init__.py",
+      "alchemy/transmutation/recipes.py",
+      "elements.py",
+      "ft_alembic_0.py",
+      "ft_alembic_1.py",
+      "ft_alembic_2.py",
+      "ft_alembic_3.py",
+      "ft_alembic_4.py",
+      "ft_alembic_5.py",
+      "ft_distillation_0.py",
+      "ft_distillation_1.py",
+      "ft_kaboom_0.py",
+      "ft_kaboom_1.py",
+      "ft_transmutation_0.py",
+      "ft_transmutation_1.py",
+      "ft_transmutation_2.py"
+    ]
+  },
+  {
     "project": "a-maze-ing",
     "directory": "projects/a-maze-ing",
     "source": "git@vogsphere.42gyeongsan.kr:vogsphere/intra-uuid-52152e62-ab37-4356-9f4f-1d21ba82e10e-7632744-jungblee",

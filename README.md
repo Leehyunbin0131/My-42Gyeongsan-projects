@@ -36,6 +36,10 @@
 | [Python 00](projects/python00/README.ko.md) | 정원 정보 입출력, 면적·수확량 계산, 씨앗 재고 출력 |
 | [Python 01](projects/python01/README.ko.md) | 식물 클래스, 성장 처리, 데이터 검증, 정원 통계 |
 | [Python 02](projects/python02/README.ko.md) | 오류 발생·처리, 사용자 정의 예외, finally 정리 예제 |
+| [Python 03](projects/python03/) | 명령행 인자, 컬렉션, 제너레이터를 활용한 데이터 처리 |
+| [Python 04](projects/python04/) | 파일 읽기·쓰기, 표준 스트림, 컨텍스트 매니저를 통한 파일 관리 |
+| [Python 05](projects/python05/) | 추상 클래스와 다형성을 활용한 데이터 처리 파이프라인 |
+| [Python 06](projects/python06/) | 모듈·패키지 구성, 절대·상대 임포트, 순환 참조 예제 |
 
 ## 테스트와 검증
 
