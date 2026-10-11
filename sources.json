@@ -115,6 +115,28 @@
     ]
   },
   {
+    "project": "python07",
+    "directory": "projects/python07",
+    "source": "git@vogsphere.42gyeongsan.kr:vogsphere/intra-uuid-9aa521e9-924a-45ab-a85b-1599a64cd9e1-7719481-hyunlee",
+    "commit": "0644d5c67249dfc543eb7c54b41fd42591468d67",
+    "files": [
+      "battle.py",
+      "capacitor.py",
+      "ex0/__init__.py",
+      "ex0/creature.py",
+      "ex0/factory.py",
+      "ex1/__init__.py",
+      "ex1/capability.py",
+      "ex1/creature.py",
+      "ex1/factory.py",
+      "ex2/__init__.py",
+      "ex2/error.py",
+      "ex2/strategy.py",
+      "ex2/tournament.py",
+      "tournament.py"
+    ]
+  },
+  {
     "project": "a-maze-ing",
     "directory": "projects/a-maze-ing",
     "source": "git@vogsphere.42gyeongsan.kr:vogsphere/intra-uuid-52152e62-ab37-4356-9f4f-1d21ba82e10e-7632744-jungblee",
