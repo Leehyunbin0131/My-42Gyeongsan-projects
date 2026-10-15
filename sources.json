@@ -137,6 +137,22 @@
     ]
   },
   {
+    "project": "python08",
+    "directory": "projects/python08",
+    "source": "git@vogsphere.42gyeongsan.kr:vogsphere/intra-uuid-73dedef1-e406-4e06-a947-1bbde988a1ea-7723412-hyunlee",
+    "commit": "69a1aa2962f6d488a0e9574979fb1834acb6a290",
+    "files": [
+      "ex0/construct.py",
+      "ex1/loading.py",
+      "ex1/pyproject.toml",
+      "ex1/requirements.txt",
+      "ex2/.env.example",
+      "ex2/.gitignore",
+      "ex2/oracle.py",
+      "ex2/requirements.txt"
+    ]
+  },
+  {
     "project": "a-maze-ing",
     "directory": "projects/a-maze-ing",
     "source": "git@vogsphere.42gyeongsan.kr:vogsphere/intra-uuid-52152e62-ab37-4356-9f4f-1d21ba82e10e-7632744-jungblee",

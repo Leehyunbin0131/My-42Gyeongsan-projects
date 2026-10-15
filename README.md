@@ -41,6 +41,7 @@
 | [Python 05](projects/python05/) | 추상 클래스와 다형성을 활용한 데이터 처리 파이프라인 |
 | [Python 06](projects/python06/) | 모듈·패키지 구성, 절대·상대 임포트, 순환 참조 예제 |
 | [Python 07](projects/python07/) | 추상 팩토리, 능력 인터페이스, 전략 패턴을 활용한 크리처 전투와 토너먼트 |
+| [Python 08](projects/python08/) | 가상환경 감지, pip·Poetry 의존성 관리, 데이터 시각화, 환경변수 설정 |
 
 ## 테스트와 검증
 
