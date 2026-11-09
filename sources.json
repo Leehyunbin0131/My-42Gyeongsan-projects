@@ -475,5 +475,26 @@
       "solution_mk2.c",
       "solution_mk3.c"
     ]
+  },
+  {
+    "project": "born2beroot",
+    "directory": "projects/born2beroot",
+    "source": "git@vogsphere.42gyeongsan.kr:vogsphere/intra-uuid-23763b59-e88c-45ac-be8e-548143b69128-7500390-hyunlee",
+    "commit": "f8998fa331433117353a0a3bcb0d8f3ca98c3a31",
+    "files": [
+      "README.md",
+      "signature.txt"
+    ]
+  },
+  {
+    "project": "python09",
+    "directory": "projects/python09",
+    "source": "git@vogsphere.42gyeongsan.kr:vogsphere/intra-uuid-94051a10-b2aa-43f2-a258-17567de7ec9b-7743572-hyunlee",
+    "commit": "e07bec11869b3caaac5617d72c869b4f1f8d6883",
+    "files": [
+      "ex0/space_station.py",
+      "ex1/alien_contact.py",
+      "ex2/space_crew.py"
+    ]
   }
 ]

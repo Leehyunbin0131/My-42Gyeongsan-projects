@@ -26,6 +26,7 @@
 | --- | --- |
 | [get_next_line](projects/get_next_line/README.ko.md) | 파일 디스크립터에서 한 줄씩 읽는 함수 |
 | [ft_printf](projects/ft_printf/README.ko.md) | printf의 형식 지정과 출력 기능 구현 |
+| [Born2beroot](projects/born2beroot/README.md) | Rocky Linux 서버 설치, LVM·LUKS 암호화, SSH·sudo 보안 정책과 모니터링 |
 | [push_swap](projects/push_swap/) | 두 스택을 이용한 정렬과 연산 횟수 벤치마크 |
 
 ## 마일스톤 2
@@ -42,6 +43,11 @@
 | [Python 06](projects/python06/) | 모듈·패키지 구성, 절대·상대 임포트, 순환 참조 예제 |
 | [Python 07](projects/python07/) | 추상 팩토리, 능력 인터페이스, 전략 패턴을 활용한 크리처 전투와 토너먼트 |
 | [Python 08](projects/python08/) | 가상환경 감지, pip·Poetry 의존성 관리, 데이터 시각화, 환경변수 설정 |
+| [Python 09](projects/python09/) | Pydantic 필드 제약, 모델 간 조건 검증, 중첩 모델을 활용한 데이터 검증 |
+
+Python 09 실행에는 Python 3.10 이상과 Pydantic 2가 필요합니다.
+`python3 -m pip install 'pydantic>=2,<3'`으로 의존성을 설치한 뒤,
+예를 들어 `python3 projects/python09/ex0/space_station.py`로 실행합니다.
 
 ## 테스트와 검증
 
