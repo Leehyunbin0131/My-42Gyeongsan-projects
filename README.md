@@ -26,13 +26,13 @@
 | --- | --- |
 | [get_next_line](projects/get_next_line/README.ko.md) | 파일 디스크립터에서 한 줄씩 읽는 함수 |
 | [ft_printf](projects/ft_printf/README.ko.md) | printf의 형식 지정과 출력 기능 구현 |
-| [Born2beroot](projects/born2beroot/README.md) | Rocky Linux 서버 설치, LVM·LUKS 암호화, SSH·sudo 보안 정책과 모니터링 |
 | [push_swap](projects/push_swap/) | 두 스택을 이용한 정렬과 연산 횟수 벤치마크 |
 
 ## 마일스톤 2
 
 | 프로젝트 | 구현 내용 |
 | --- | --- |
+| [Born2beroot](projects/born2beroot/README.md) | Rocky Linux 서버 설치, LVM·LUKS 암호화, SSH·sudo 보안 정책과 모니터링 |
 | [A-Maze-ing](projects/a-maze-ing/README.ko.md) | 미로 생성, 최단 경로 탐색, MiniLibX 시각화 |
 | [Python 00](projects/python00/README.ko.md) | 정원 정보 입출력, 면적·수확량 계산, 씨앗 재고 출력 |
 | [Python 01](projects/python01/README.ko.md) | 식물 클래스, 성장 처리, 데이터 검증, 정원 통계 |
